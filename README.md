@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif "Logo Title Text 1")
+
 # 💫 About Me:
 A frontend virtuoso, fluent in Vue.js, React.js, and Typescript, and is currently delving into the exciting worlds of Flutter and React Native.
 
